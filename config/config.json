@@ -1,0 +1,29 @@
+{
+  "site": {
+    "title": "Unimag | Блог с ИКС 11000",
+    "base_url": "/",
+    "favicon": "/images/favicon.ico",
+    "logo": "/images/logo-unimag.png",
+    "logo_width": "130",
+    "logo_height": "34",
+    "logo_text": "Unimag"
+  },
+
+  "settings": {
+    "pagination": 3,
+    "summary_length": 200,
+    "blog_folder": "posts"
+  },
+
+  "params": {
+    "tag_manager_id": "",
+    "contact_form_action": "#",
+    "copyright": "Copyright © 2024 Unimag"
+  },
+
+  "metadata": {
+    "meta_author": "Unimag",
+    "meta_image": "/images/og-image.jpg",
+    "meta_description": "Блог с ИКС 11000 - всё для продвижения вашего сайта"
+  }
+}
